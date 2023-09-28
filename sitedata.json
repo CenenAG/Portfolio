@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Kids sports website",
+    "smallImage": "img/KidsSportsWebsite.png",
+    "smallImageAlt": "Shows off a website for kids sports that has two kids playing on the front.",
+    "largeImage": "img/KidsSportsWebsiteFull.jpg",
+    "largeImageAlt": "Shows off a website for kids sports with multiple views.",
+    "projectText": "Project #1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad molestias atque eveniet fugit. Ducimus quaerat voluptatibus, velit tempora sapiente dolore!",
+    "challengesText": "Challenges #1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad molestias atque eveniet fugit. Ducimus quaerat voluptatibus, velit tempora sapiente dolore!",
+    "technologies": ["HTML", "CSS", "JavaScript", "C#"]
+  },
+  {
+    "title": "Pet adoption campaign",
+    "smallImage": "img/PetAdoptionCampaign.png",
+    "smallImageAlt": "Shows off print pieces asking people to adopt pets instead of shopping for them.",
+    "largeImage": "img/PetAdoptionCampaignFull.jpg",
+    "largeImageAlt": "Shows off multiple print pieces asking people to adopt pets instead of shopping for them.",
+    "projectText": "Project #2 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi aspernatur ad praesentium cupiditate aut incidunt delectus quidem sint quibusdam sapiente.",
+    "challengesText": "Challenge #2 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi aspernatur ad praesentium cupiditate aut incidunt delectus quidem sint quibusdam sapiente.",
+    "technologies": ["PDF", "InDesign", "Custom Clipart Design"]
+  },
+  {
+    "title": "Pub website",
+    "smallImage": "img/PubWebsite.png",
+    "smallImageAlt": "Shows off a website for a pub. The page has pictures of pizza and pizza making.",
+    "largeImage": "img/PubWebsiteFull.jpg",
+    "largeImageAlt": "Shows off a website for a pub with multiple page views. The pages all have a pizza theme.",
+    "projectText": "Project #3 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi aspernatur ad praesentium cupiditate aut incidunt delectus quidem sint quibusdam sapiente.",
+    "challengesText": "Challenge #3 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi aspernatur ad praesentium cupiditate aut incidunt delectus quidem sint quibusdam sapiente.",
+    "technologies": ["HTML", "CSS", "JavaScript", "LocalStorage"]
+  }
+]
